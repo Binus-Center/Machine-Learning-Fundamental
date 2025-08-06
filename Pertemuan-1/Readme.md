@@ -50,7 +50,15 @@ Dengan memanfaatkan library pandas untuk mengelola data, maka kita dapat melakuk
   <br> Data bertipe numerik dengan tipe data float, sedangkan pada kolom species memiliki tipe data object
 
 - **Deskripsi Data**
-  <br> Hasil dari deskripsi data, data memiliki rerata nilai sepal_length 5.843333, sepal_width 3.057333, petal_length 3.758000, dan petal_width 1.199333, dengan nilai tertingginya adalah 7.900000 dan terendahnya adalah 0.100000 dari keseluruhan data.  
+  <br> Hasil dari deskripsi data, data memiliki rerata nilai sepal_length 5.843333, sepal_width 3.057333, petal_length 3.758000, dan petal_width 1.199333, dengan nilai tertingginya adalah 7.900000 dan terendahnya adalah 0.100000 dari keseluruhan data. Berikut adalah tabel detailnya.
+  
+  | Data               | sepal_length | sepal_width | petal_length | petal_width |
+  |--------------------|--------------|-------------|--------------|-------------|
+  | Total Data         | 150.000000   | 150.000000  | 150.000000   | 150.000000  |
+  | Mean               | 5.843333     | 3.057333    | 3.758000     | 1.199333    |
+  | Standard Deviation | 0.828066     | 0.435866    | 1.765298     | 0.762238    |
+  | Minimum Value      | 4.300000     | 2.000000    | 1.000000     | 0.100000    |
+  | Maximum Value      | 7.900000     | 4.400000    | 6.900000     | 2.500000    |
 
 ## Evaluation
 
